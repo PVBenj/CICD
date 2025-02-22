@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/PVBenj/CICD/issues"
   },
-  "homepage": "https://github.com/PVBenj/CICD#readme"
+  "homepage": "https://github.com/PVBenj/CICD#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
